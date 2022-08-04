@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chirps to Temperature</string>
+    <string name="calculate_temperature">Calculate Temperature</string>
+    <string name="enter_number_of_chirps_in_25_seconds">Enter number of chirps in 25 seconds</string>
+    <string name="info">Did you know that the number of cricket chirps reports the temperature? It\'s true! \nJust count the number of chirps in 25 seconds.</string>
+    <string name="Result_text">The temperature of surrounding is </string>
+    <string name="Celcius">C</string>
+    <string name="degree_symbol">°</string>
+</resources>
